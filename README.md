@@ -1,15 +1,15 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-👋 Olá, eu sou @JuniorSantos1986, de Recife - PE - Brasil.
+👋 Olá, eu sou @JuniorSantos1986, de Recife/PE - Brasil.
 
 <br>
  
-  Sou desenvolvedor web Full-stack, aqui estão alguns de meus projetos, meu grande objetivo é entrar em uma empresa onde eu seja desafiado  a colocar em prática todo o meu conhecimento.
+  Sou desenvolvedor web Full-stack e meu grande objetivo é entrar em uma empresa onde eu seja desafiado a colocar em prática todo o meu conhecimento.
   <br/>
   <br/>
-  Sou apaixonado por tecnologia, passo várias horas de meu dia estudando novas tecnologias e formas melhores de aplicá-las.
+  Sou apaixonado por tecnologia, e sempre busco adquirir cada vez mais conhecimentos acadêmicos e profissionais em termos de Tecnologia da Informação, para poder crescer como pessoa e profissional, contribuindo para soluções de problemas com atividades como empreender, analisar, projetar, desenvolver, implantar e gerenciar, de forma inovadora, sistemas de informação, em concordância com a evolução da tecnologia e suas aplicações.
   <br/>
   <br/>
-  Nas minhas horas vagas, gosto de estar com minha família e praticar atividades físicas.
+  Nas minhas horas vagas, aproveito a companhia dos meus familiares e amigos. Semanalmente pratico esportes.
 
 <a href="https://www.instagram.com/junior_santos_86/">
   <img align="left" alt="Abhishek's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -47,7 +47,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSantos1986&layout=compact&theme=radical" alt="JuniorSantos1986"
 </p>
 
-<!---
-guicastro13/guicastro13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
