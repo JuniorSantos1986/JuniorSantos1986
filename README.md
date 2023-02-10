@@ -28,7 +28,7 @@ Sou desenvolvedor Web Full-Stack, apaixonado por tecnologia, e sempre busco adqu
 <code><img height="40" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 
 
-### 🚀 Outras estastísticas
+### 🚀 Estastísticas
 
 <p align="center">  
  <img src="https://github-readme-stats.vercel.app/api?username=JuniorSantos1986&show_icons=true&theme=radical" alt="JuniorSantos1986"/> 
