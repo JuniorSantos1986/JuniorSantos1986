@@ -8,12 +8,12 @@ Sou desenvolvedor web Full-stack, apaixonado por tecnologia, e sempre busco adqu
   <br/>
   Nas minhas horas vagas, pratico esportes e aproveito a companhia dos meus familiares e amigos.
 
-<a href="https://www.instagram.com/junior_santos_86/">
-  <img align="left" alt="Abhishek's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/junior_santos_86/" target="_blank">
+  <img align="left" alt="Abhishek's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
 </a>
 
-<a href="https://www.linkedin.com/in/j%C3%BAnior-santos-838222236/">
-  <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/j%C3%BAnior-santos-838222236/" target="_blank">
+  <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
 <hr/>
 <br/>
