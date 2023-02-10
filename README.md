@@ -18,21 +18,13 @@ Sou desenvolvedor web Full-stack e apaixonado por tecnologia, e sempre busco adq
 <hr/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ### ⚙️ Algumas tecnologias e ferramentas que utilizo
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
-<code><img height="40" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="40" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
 <code><img height="40" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
