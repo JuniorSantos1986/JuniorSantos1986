@@ -3,12 +3,12 @@
 
 <br>
  
-Sou desenvolvedor web Full-stack, apaixonado por tecnologia, e sempre busco adquirir cada vez mais conhecimentos acadêmicos e profissionais em termos de Tecnologia da Informação, para poder crescer como pessoa e profissional, contribuindo para soluções de problemas com atividades como empreender, analisar, projetar, desenvolver, implantar e gerenciar, de forma inovadora, sistemas de informação, em concordância com a evolução da tecnologia e suas aplicações.
+Sou desenvolvedor web Full-stack, apaixonado por tecnologia, e sempre busco adquirir cada vez mais conhecimentos acadêmicos e profissionais em termos de Tecnologia da Informação, para crescer como pessoa e profissional, contribuindo para soluções de problemas com atividades como empreender, analisar, projetar, desenvolver, implantar e gerenciar, de forma inovadora, sistemas de informação, em concordância com a evolução da tecnologia e suas aplicações.
   <br/>
   <br/>
   Nas minhas horas vagas, pratico esportes e aproveito a companhia dos meus familiares e amigos.
 
-<a href="https://www.instagram.com/junior_santos_86/" target="_blank">
+<a href="https://www.instagram.com/junior_santos_86/" target="blank">
   <img align="left" alt="Abhishek's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
 </a>
 
