@@ -1,5 +1,5 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-👋 Olá, eu sou @JuniorSantos1986, de Recife/PE - Brasil.
+👋 Olá, eu sou Júnior Santos, de Recife/PE - Brasil.
 
 <br>
  
