@@ -3,10 +3,7 @@
 
 <br>
  
-  Sou desenvolvedor web Full-stack e meu grande objetivo é entrar em uma empresa onde eu seja desafiado a colocar em prática todo o meu conhecimento.
-  <br/>
-  <br/>
-  Sou apaixonado por tecnologia, e sempre busco adquirir cada vez mais conhecimentos acadêmicos e profissionais em termos de Tecnologia da Informação, para poder crescer como pessoa e profissional, contribuindo para soluções de problemas com atividades como empreender, analisar, projetar, desenvolver, implantar e gerenciar, de forma inovadora, sistemas de informação, em concordância com a evolução da tecnologia e suas aplicações.
+Sou desenvolvedor web Full-stack e apaixonado por tecnologia, e sempre busco adquirir cada vez mais conhecimentos acadêmicos e profissionais em termos de Tecnologia da Informação, para poder crescer como pessoa e profissional, contribuindo para soluções de problemas com atividades como empreender, analisar, projetar, desenvolver, implantar e gerenciar, de forma inovadora, sistemas de informação, em concordância com a evolução da tecnologia e suas aplicações.
   <br/>
   <br/>
   Nas minhas horas vagas, aproveito a companhia dos meus familiares e amigos. Semanalmente pratico esportes.
