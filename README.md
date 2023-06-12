@@ -3,7 +3,7 @@
 
 <br>
  
-Sou desenvolvedor Web Full-Stack, apaixonado por tecnologia, e sempre busco adquirir cada vez mais conhecimentos acadêmicos e profissionais em termos de Tecnologia da Informação, para crescer como pessoa e profissional, contribuindo para soluções de problemas com objetivo de analisar, projetar, desenvolver e implantar, de forma inovadora, sistemas de informação, em concordância com a evolução da tecnologia e suas aplicações.
+Sou desenvolvedor Full-Stack, apaixonado por tecnologia, e sempre busco adquirir cada vez mais conhecimentos acadêmicos e profissionais em termos de Tecnologia da Informação, para crescer como pessoa e profissional, contribuindo para soluções de problemas com objetivo de analisar, projetar, desenvolver e implantar, de forma inovadora, sistemas de informação, em concordância com a evolução da tecnologia e suas aplicações.
   <br/>
   <br/>
   Nas minhas horas vagas, pratico esportes e aproveito a companhia dos meus familiares e amigos.
