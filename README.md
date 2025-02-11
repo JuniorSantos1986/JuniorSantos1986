@@ -13,7 +13,7 @@ Sou estagiário em desenvolvimento de sistemas, apaixonado por tecnologia, e sem
 </a>
 
 <a href="https://www.linkedin.com/in/j%C3%BAnior-santos-838222236/" target="_blank">
-  <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+  <img align="left" alt="Abhishek's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
 <hr/>
 <br/>
