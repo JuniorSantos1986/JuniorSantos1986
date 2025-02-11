@@ -9,11 +9,11 @@ Sou estagiário em desenvolvimento de sistemas, apaixonado por tecnologia, e sem
   Nas minhas horas vagas, pratico esportes e aproveito a companhia dos meus familiares e amigos.
 
 <a href="https://www.instagram.com/junior_santos_86/" target="_blank">
-  <img align="left" alt="Abhishek's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
+  <img align="left" alt="Abhishek's Instagram" width="40px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/>
 </a>
 
 <a href="https://www.linkedin.com/in/j%C3%BAnior-santos-838222236/" target="_blank">
-  <img align="left" alt="Abhishek's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+  <img align="left" alt="Abhishek's LinkedIn" width="40px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/>
 </a>
 <hr/>
 <br/>
