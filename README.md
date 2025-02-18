@@ -1,5 +1,5 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-# 💫 About Me / Sobre mim:
+💫 Sobre mim:<br>
 👋 Olá, eu sou Júnior Santos, de Recife/PE - Brasil.<br>Sou estagiário em desenvolvimento de sistemas, apaixonado por tecnologia, e sempre busco adquirir cada vez mais conhecimentos acadêmicos e profissionais em termos de Tecnologia da Informação, para crescer como pessoa e profissional, contribuindo para soluções de problemas com objetivo de analisar, projetar, desenvolver e implantar, de forma inovadora, sistemas de informação, em concordância com a evolução da tecnologia e suas aplicações.<br><br>Nas minhas horas vagas, pratico esportes e aproveito a companhia dos meus familiares e amigos.
 
 
